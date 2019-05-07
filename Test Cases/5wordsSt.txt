@@ -1,0 +1,6 @@
+  2cc83758:aaaa
+  f0ab1827:bbbbbbbbb
+  37156985:ccccccccddddddeeeeffff
+  d68e12ce:bananas
+  14eeb552:syzygy
+Input file processed
